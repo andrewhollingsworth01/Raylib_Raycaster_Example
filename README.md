@@ -2,6 +2,6 @@
 
 This is an example of using ray lib to make a raycaster.
 
-Resources:
-Raylib-Raycaster by justinac0: https://github.com/justinac0/raylib-raycaster
+Resources: <br>
+Raylib-Raycaster by justinac0: https://github.com/justinac0/raylib-raycaster <br>
 Raylib by raysan5: https://github.com/raysan5/raylib
