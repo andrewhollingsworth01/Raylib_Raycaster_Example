@@ -12,9 +12,10 @@ Controls:<br>
 Mouse - Rotation<br>
 "ESC" - Closing the Window
 
-Tools:<br>
+Tools:
 Visual Studio 2022<br>
-C++ Language
+C++ Language<br>
+CMake Build System
 
 Resources: <br>
 Raylib-Raycaster by justinac0: https://github.com/justinac0/raylib-raycaster <br>
