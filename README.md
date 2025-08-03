@@ -1,4 +1,4 @@
-# Raylib_Raycaster_Example
+# Raylib Raycaster Example
 
 This is an example of using raylib to make a raycaster.
 
